@@ -3,6 +3,8 @@
 - https://github.com/odynvolk/intellij-visual-studio-code
 - https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 - https://code.visualstudio.com/docs/editor/tasks#_convert-from-010-to-200
+- [C/C++ for VS Code](https://code.visualstudio.com/docs/languages/cpp)
+- []()
 
 ## Tips
 #### Autosave
